@@ -1,0 +1,6 @@
+/* Arquivo styles.css */
+
+.selected {
+    background-color: #F0F0F0;
+    /* Cor de fundo para o ticket selecionado */
+}
